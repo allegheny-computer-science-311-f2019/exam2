@@ -7,7 +7,7 @@
 
 ### Question 1 [10 points]
 
-Give an example of an multi-agent system. Explain why it is a multi-agent system and what makes an agent in the system an "agent" as we define that term in this class. 
+Give an example of a multi-agent system. Explain why it is a multi-agent system and what makes an agent in the system an "agent" as we define that term in this class. 
 
 
 
@@ -38,7 +38,7 @@ In `pyparrot` library the `Bebop` class has a method called `fly_direct`. Descri
 
 ### Question 6 [5 points]
 
-What does the follow line of a Python program return?
+What does the following line of a Python program return?
 
 `pics = [img for img in os.listdir(image_folder) if img.endswith(".png")]`
 
